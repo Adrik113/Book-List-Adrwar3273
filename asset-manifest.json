@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book-List-Adrwar3273/static/css/main.e6c13ad2.css",
+    "main.js": "/Book-List-Adrwar3273/static/js/main.3376e402.js",
+    "static/js/453.cecd5985.chunk.js": "/Book-List-Adrwar3273/static/js/453.cecd5985.chunk.js",
+    "index.html": "/Book-List-Adrwar3273/index.html",
+    "main.e6c13ad2.css.map": "/Book-List-Adrwar3273/static/css/main.e6c13ad2.css.map",
+    "main.3376e402.js.map": "/Book-List-Adrwar3273/static/js/main.3376e402.js.map",
+    "453.cecd5985.chunk.js.map": "/Book-List-Adrwar3273/static/js/453.cecd5985.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3376e402.js"
+  ]
+}
